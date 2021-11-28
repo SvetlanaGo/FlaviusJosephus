@@ -1,0 +1,9 @@
+C:\EPAM\Solutions\FlaviusJosephus\FlaviusJosephusTask\bin\Debug\netcoreapp3.1\FlaviusJosephusTask.deps.json
+C:\EPAM\Solutions\FlaviusJosephus\FlaviusJosephusTask\bin\Debug\netcoreapp3.1\FlaviusJosephusTask.dll
+C:\EPAM\Solutions\FlaviusJosephus\FlaviusJosephusTask\bin\Debug\netcoreapp3.1\FlaviusJosephusTask.pdb
+C:\EPAM\Solutions\FlaviusJosephus\FlaviusJosephusTask\obj\Debug\netcoreapp3.1\FlaviusJosephusTask.csprojAssemblyReference.cache
+C:\EPAM\Solutions\FlaviusJosephus\FlaviusJosephusTask\obj\Debug\netcoreapp3.1\FlaviusJosephusTask.AssemblyInfoInputs.cache
+C:\EPAM\Solutions\FlaviusJosephus\FlaviusJosephusTask\obj\Debug\netcoreapp3.1\FlaviusJosephusTask.AssemblyInfo.cs
+C:\EPAM\Solutions\FlaviusJosephus\FlaviusJosephusTask\obj\Debug\netcoreapp3.1\FlaviusJosephusTask.csproj.CoreCompileInputs.cache
+C:\EPAM\Solutions\FlaviusJosephus\FlaviusJosephusTask\obj\Debug\netcoreapp3.1\FlaviusJosephusTask.dll
+C:\EPAM\Solutions\FlaviusJosephus\FlaviusJosephusTask\obj\Debug\netcoreapp3.1\FlaviusJosephusTask.pdb
